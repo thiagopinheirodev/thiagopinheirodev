@@ -1,6 +1,6 @@
-- 👋 Hi! My name is Thiago Pinheiro do Nascimento and i'm a web full stack and mobile developer.
-- 👀 I’m interested in Java, PHP and Javascript languages.
-- 🌱 I’m currently learning Spring ecosystem and Quarkus framework.
+- 👋 Hi! My full name is Thiago Pinheiro do Nascimento.
+- 👀 I’m interested in Java, Rust, PHP and Javascript languages.
+- 🌱 I’m currently learning Spring ecosystem, Quarkus framework and React Native.
 - 📫 It is possible to reach me through the email thiagopinheiro.developer@gmail.com.
 
 <!---
